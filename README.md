@@ -12,7 +12,7 @@ Soy Daniel, un estudiante de programación.
   <img align="left" alt="Daniieljc Github" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/daniel-jiménez-cabello-010763164/">
+<a href="https://www.linkedin.com/in/daniel-jiménez-cabello/">
   <img align="left" alt="Daniel Linkedin" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
