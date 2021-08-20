@@ -2,7 +2,7 @@
 
 ## ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Soy Daniel, un estudiante de programación.
+Soy Daniel, un enrea programando.
 
 <a href="https://twitter.com/Daniieljmc">
   <img align="left" alt="Daniieljc Twitter" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
