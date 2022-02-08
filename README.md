@@ -1,18 +1,26 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=daniieljc&show_icons=true" atl="daniieljc"/>
+<h1 align="center">Hola 👋, soy Daniel</h1>
+<h3 align="center">Programador backend y a veces todoterreno</h3>
 
-## ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Soy Daniel, un apasionado para la programación.
+- 🔭 Actualmente estoy trabajando en [eHidra](https://ehidra.com)
 
-<a href="https://twitter.com/Daniieljmc">
-  <img align="left" alt="Daniieljc Twitter" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+- 🌱 Actualmente estoy aprendiendo **Node.js**
+
+## 🔧 Tecnologías y Herramientas
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; Estadísticas de GitHub
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniieljc&hide=html,tex&theme=algolia&langs_count=3&" />
 </a>
-
-<a href="https://github.com/Daniieljc">
-  <img align="left" alt="Daniieljc Github" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniieljc&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Martin's GitHub Stats" />
 </a>
-
-<a href="https://www.linkedin.com/in/daniel-jiménez-cabello/">
-  <img align="left" alt="Daniel Linkedin" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
