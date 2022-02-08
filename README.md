@@ -18,9 +18,9 @@
 
 ## &#x1f4c8; Estadísticas de GitHub
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/daniieljc/daniieljc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniieljc&hide=html,tex&theme=algolia&langs_count=3&" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/daniieljc/daniieljc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniieljc&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Martin's GitHub Stats" />
 </a>
