@@ -2,7 +2,7 @@
 <h3 align="center">Programador backend y a veces todoterreno</h3>
 
 
-- 🔭 Actualmente estoy trabajando en [eHidra](https://ehidra.com)
+- 🔭 Actualmente estoy trabajando en [Aicor](https://aicor.com)
 
 - 🌱 Actualmente estoy aprendiendo **Node.js**
 
