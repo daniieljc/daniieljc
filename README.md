@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Aicor](https://aicor.com)
 
-- 🌱 Actualmente estoy aprendiendo **Node.js**
+- 🌱 Actualmente estoy aprendiendo **Golang**
 
 ## 🔧 Tecnologías y Herramientas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
