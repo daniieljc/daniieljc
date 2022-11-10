@@ -2,8 +2,6 @@
 <h3 align="center">Programador backend y a veces todoterreno</h3>
 
 
-- 🔭 Actualmente estoy trabajando en [Aicor](https://aicor.com)
-
 - 🌱 Actualmente estoy aprendiendo **Golang**
 
 ## 🔧 Tecnologías y Herramientas
